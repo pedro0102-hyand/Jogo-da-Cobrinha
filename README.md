@@ -1,0 +1,1 @@
+Este codigo desenvolvido em Python, tem como objetivo alavancar minhas habilidades em desenvolvimento de algoritmos para solucoes práticas, neste caso desenvolvendo um "Jogo da Cobrinha"completamente funcinal e intuitivo, contando com o auxilio da biblioteca Pygame para garantir o funcionamento do jogo. :)
